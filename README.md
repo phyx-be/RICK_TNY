@@ -6,13 +6,13 @@ RICK is a small development board based around the [Raspberry Pi RP2350A](https:
 Currently the only place to get your hands on the RICK_TNY is [in our Lectronz store](https://lectronz.com/products/rick-tny).
 
 ## TNY ?
-TNY is our take on the [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed studio XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) specifications but with added SMD pins for optional extra IO capabilities and a built in WS2811 compatible LED output.
+TNY is our take on the [Adafruit QT Py](https://www.adafruit.com/category/595) and [Seeed Studio XIAO](https://www.seeedstudio.com/xiao-series-page) specifications but with added SMD pins for optional extra IO capabilities and a built-in WS2811 compatible LED output.
 
 ## Pinout
 ![RICK TNY 00 pinout](media/pinout.png)
 
 ## RICK REV 00
-The first revision of this board uses a 4 layer PCB with filled vias.
+The first revision of this board uses a 4-layer PCB with filled vias.
 
 ![RICK TNY 00](media/top.png)
 
